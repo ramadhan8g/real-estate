@@ -1,0 +1,84 @@
+yang diperhatikan
+1. rapi
+2. attitude (sopan)
+3. komunikasi 
+4. kompetensi
+5. antusias
+
+pertanyaan
+1. jelaskan dirimu, yg d kuasai, skill, pengalaman kerja
+2. kegiatan apa skrg, 
+3.  jelaskan tentang perusahaan
+4. kenapa tertarik bekerja (ceritakan bckground perusahaan, smbungkan dengan background, kemampuan, minat)
+5. posisi atau perusahaan
+6. apa yg lu ketahui tentang bidang kerjaan ini
+7. nilai jual lu
+8. harapan anda ingin kerja sini, dan 5 tahun kedepan
+9. apa yg membedakan kamu dengan yg lain
+10. apa alasan keluar kerja sblumnya
+11. pengalaman terbaik d kerjaan sblumnya
+12. klo misal d tnya ad pertanyaan lgi, tnya
+13. gmn kalau lembur
+14. kelebihan dan kekurangan
+
+** bapak hardiansyah (spv)
+
+** udh ngelamar kerja dmn aja
+indofood, pelindo, pns
+
+*** 1. perkenalan
+perkenalkan bu, nama saya ramadhan yandra lubis, saya lulusan sistem informasi di stmik triguna dharma medan, saya pernah bekerja sebagai staff it selama 3 tahun, saya memiliki pengetahuan di bidang it, seperti jaringan komputer, troubleshooting sofware dan hardware, bisa microsoft office, bisa design, megetahui bahasa pemgroraman seperti html, css, php, javascript, react js, saya sangat tertarik dan sangat antusias untuk bsa berkarir di dunia it. Dan saya tipe org yg berusaha keras, mau belajar, dan amanah
+
+*** 2. kegiatan skrg
+untuk kegiatan saya skrg yaitu, saya dari pagi smpe siang sebagai ojek online, dan siang nya saya biasa mengerjakan project freelance seperti design poster, spanduk, edit video, dan saya jga pernah membuat aplikasi web, wordpress, saya jga mengerjakan laporan spt bulanan spt tahunan perusahaan org dan jika tidak ada kerjaan frelance d siang nya saya nonton belajar pemgroraman, editing dan desain
+
+*** 3. Profil RS Columbia asia
+- Sebuah perusahaan kesehatan swasta yg didirikan di malaysia yang berskala internasional yang memiliki 5 rumah sakit, dan lebih dari 20 d asia tenggara, RS Columbia asia medan memperoleh serfikasi bintang 5 oleh komisi akreditasi rs d tahun 2019, dan 3 tahun berturut-berturut mendapatkan penghargaan 2014,2015,2016, Rs Columbia Asia terkenal dengan pelayanan yg terbaik, fasilitas nya modern, dan tarifnya tergolong murah dari rs swasta yg lain dengan standar
+- fasilitas dan pelayanan education dan advisory centre, informasi kesehatan dan konsultasi ke dokter
+- mempunyai visi membuat org menjadi lebih baik, Untuk memberikan hasil klinis terbaik dalam lingkungan yang paling efektif, efisien dan penuh perhatian.
+- dan dari yg saya baca rumah sakit columbia sudah d resmikan d hari jumat
+
+*** 4. tertarik bekerja
+saya tertarik bekerja karena pertama saya melihat rs columbia asia adalah salah satu rs swasta terbaik di medan dengan pelayanannya, dan visinya yg luarbiasa yaitu membuat org menjadi lebih baik, dan bidang perkerjaan yg d tawarkan sesuai dengan jurusan serta keahlian yg saya miliki dan jga saya memiliki minat besar saya yaitu bekerja di bidang IT.
+
+*** 5. posisi atau perusahan
+perusahaan, saya ingin bekerja d perusahaan ini dengan pekerjaan di bidang it dan alhamdulillah saya bersyukur bidang pekerjaannya yaitu it assistant
+
+*** 7. kenapa perusahaan harus menerima anda 
+ -berdasarkan dengan pengalaman dan kemampuan saya, saya jga pernah ikut pelatihan dari kominfo d tahun 2021 yaitu IT support dan pelatihan cisco dari skill academy dan saya jga ikut bootcamp dari binar academy sebagai frontend enginer, saya yakin saya mampu untuk mengisi di posisi ini, dan seandainya saya d terima d perusahaan ini saya akan bekerja keras, saya akan berusaha belajar lebih dalam dan berusaha untuk memberikan yg terbaik. 
+-IT Support digital talent
+yg d pelajari software dan hardware apa aja hardware, cara memasang dan merawat, dasar jaringan apa aja alatnya, dns, ipv4,  subnetting, vpn, sistem operasi, lan, cloud, keamanan (perhatikan yg d format file download, os nya asli, antivirus ori, hati2 web phising) jenis serangan cyber, antisipasi, 
+-Frontend
+yg d pelajari desain web, javascript, penggunaan react js, api, implementasi FE dan BE
+
+*** 6.apa yg lu ketahui tentang bidang ini
+bidang pekerjaan nya ini yaitu it assistant yang dmn it assistant berperan penting untuk jalan nya rumah sakit yang dimana it assistant kerjaannya seperti melakukan instalasi software hardware, melakukan uji coba hardware dan software sblum d gunakan, melakukan backup restore database, membantu senior dalam memasang dan merawat lan, server, vpn, membantu persamalahan user misal jaringan lan blum masuk, komputer lelet, jaringan lambat 
+
+*** 8. harapan anda ingin kerja sini, dan 5 tahun kedepan
+-saya berharap jika seandainya saya bekerja disini bsa memberikan yg terbaik dalam mengatasi permasalahan yg ada, dan saya jga senang membantu org yg lagi dalam ada permasalahan d bidang it, dan harapan 5 tahun kedepan saya bsa menjadi senior dan ahli dalam bidang it, dan mengajarkan ke junior bagaimana memberikan pelayanan terbaik.
+-dn utk personal saya, saya berharap 5 tahun kedepan saya sudah menikah dan mmpunyai anak, memiliki rmh, kereta dan saya bsa sering sedekah ke pondok, msjid dan org yg membutuhkan
+
+*** 9. yg membedakan saya dengan yg lain
+saya mempunyai keahlian dalam hal jaringan, troubleshooting hardware software, paham database mysql, mongodb, mengetahui bahasa pemgroraman web, pernah ikut pelatihan it support digitalent kominfo, pernah jga ikut bootcamp programming, bsa desain jga dn paham microsoft office, saya memiliki niat yg tinggi utk bekerja d bidang it, dan saya tipe org yang mau belajar dan bekerja keras
+
+*** 10. apa alasan keluar kerja sblumnya
+ingin mencari kerja yg lebih baik dan gaji yg sesuai dan saya ingin berkarir di bidang it
+
+*** ngapaen aja d kerja sebelumnya
+menjadi admin website (buat artikel, posting berita), membuat administrasi, hosting dan pernah jga d buat ke vps, desain dn edit video, laporan pajak bulanan dan tahunan
+
+*** 11. kesan kerja terbaik d tmpt sebelumnya
+dengan kerja d tmpt sebelumnya , saya jadi mempunyai keahlian desain, edit video, mengerti hosting, paham wordpress, paham administrasi
+
+*** 12. hal g enak d kerja sblumnya
+trkadang malam d suruh upload artikel/berita yg dmn itu waktu istirahat
+
+*** 13. klo lembur
+saya bersedia untuk lembur, jika memang dibutuhkan untuk lembur
+
+*** 14. kelebihan dan kekurangan
+-kelebihan : berusaha keras
+-kekurangan : pelupa terkait gmn letakkan barang, kadang lupa jadwal dn janji kegiatan dan saya mengatasinya dengan mencatat d hp kegiatan apa saja
+
+
+
